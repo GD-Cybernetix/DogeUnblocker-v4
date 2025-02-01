@@ -26,4 +26,4 @@ Doge Unblocker is a lightning-fast web proxy designed for performance and stealt
 [![Deploy to Koyeb](https://binbashbanana.github.io/deploy-buttons/buttons/remade/koyeb.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/dogenetwork/v4)
 
 ### Discord
-[![Join us on Discord](https://invidget.switchblade.xyz/sWPHCdxCPU?theme=dark)](https://discord.gg/sWPHCdxCPU)
+[![Join us on Discord](https://media.discordapp.net/attachments/1309930237366108260/1309932679059210401/ASTRAL_RETURNS_BLUE_1.jpg?ex=679e58e0&is=679d0760&hm=a9664258c3e07b844556409f6c1ebd30f660d2971d51e3c2e1000b1ea3964cbf&=&format=webp&width=253&height=253)](https://discord.gg/sWPHCdxCPU)
